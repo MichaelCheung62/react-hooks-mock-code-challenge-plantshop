@@ -41,6 +41,54 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "12",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "12",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "12",
+      "image": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "12",
+      "image": "",
+      "price": 121,
+      "id": 11
+    },
+    {
+      "name": "12",
+      "image": "313131",
+      "price": 121212,
+      "id": 12
+    },
+    {
+      "name": "12",
+      "image": "313131",
+      "price": 121212,
+      "id": 13
+    },
+    {
+      "name": "12",
+      "image": "313131",
+      "price": 121212,
+      "id": 14
+    },
+    {
+      "name": "12",
+      "image": "313131",
+      "price": 121212,
+      "id": 15
     }
   ]
 }
